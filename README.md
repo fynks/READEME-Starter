@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- logo -->
-  <img src="https://github.com/aliglelo/README-Starter/blob/master/images/logo.png">
+  <img src="https://github.com/aliglelo/README-Starter/blob/master/logo.png">
   <b>README.md sample for all kind of projects</b><br>
   <sub>
     Coded with 💙 by Aliglelo.
