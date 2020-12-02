@@ -1,5 +1,5 @@
-<h1 align="center"> Retired </h1>
-  <p align="center"> A place for retired and abandoned projects<br>
+<h1 align="center"> README Strater </h1>
+  <p align="center"> A boilerplate for starting a readme<br>
 <sub>
     Coded with 💙 by Aliglelo.
   </sub>
