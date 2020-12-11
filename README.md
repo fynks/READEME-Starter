@@ -1,7 +1,7 @@
 <h1 align="center"> README Strater </h1>
   <p align="center"> A boilerplate for starting a readme<br>
 <sub>
-    Coded with 💙 by Aliglelo.
+    Coded with 💙 by Fynks.
   </sub>
 </p>
   
@@ -9,10 +9,10 @@
 <p align="center">
     <!-- mainteinance -->
       <a href="#">
-        <img src="https://img.shields.io/badge/Repo-Retired-green" alt="Mainteinance yes" />
+        <img src="https://img.shields.io/badge/REAME-Starter-green" alt="Mainteinance yes" />
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/Author-Aliglelo-yellow" alt="Author" />
+        <img src="https://img.shields.io/badge/Author-Fynks-yellow" alt="Author" />
       </a>
 </p>
 
@@ -80,4 +80,4 @@ function codeSample(thisRepo repository) {
 
 
 
-                                                               Aliglelo © 2020
+                                                               Fynks © 2020
