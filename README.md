@@ -9,10 +9,10 @@
 <p align="center">
     <!-- mainteinance -->
       <a href="#">
-        <img src="https://img.shields.io/badge/REAME-Starter-green" alt="Mainteinance yes" />
+        <img src="https://img.shields.io/badge/REAME-Starter-green" alt="Repo-name" />
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/Author-Fynks-yellow" alt="Author" />
+        <img src="https://img.shields.io/badge/Author-Fynks-yellow?style=flat-square&logo=" alt="Author-Fynks" />
       </a>
 </p>
 
